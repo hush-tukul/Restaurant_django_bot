@@ -3,7 +3,15 @@ import operator
 from aiogram.enums import ParseMode, ContentType
 from aiogram_dialog import Window
 from aiogram_dialog.widgets.input import MessageInput
-from aiogram_dialog.widgets.kbd import Row, Select, SwitchTo, Column, Button, WebApp, Url
+from aiogram_dialog.widgets.kbd import (
+    Row,
+    Select,
+    SwitchTo,
+    Column,
+    Button,
+    WebApp,
+    Url,
+)
 from aiogram_dialog.widgets.media import StaticMedia, DynamicMedia
 from aiogram_dialog.widgets.text import Const, Format, Text
 
@@ -106,10 +114,7 @@ main_menu_window = Window(
     StaticMedia(url="https://telegra.ph//file/0a899a91b7084ff6d4e64.jpg"),
     Format("{title}"),
     Row(
-        WebApp(
-            Const('Test'),
-            Const('https://github.com/StasKazakov')
-        ),
+        WebApp(Const("Test"), Const("https://github.com/StasKazakov")),
         Select(
             Format("{item[0]}"),
             id="menu",

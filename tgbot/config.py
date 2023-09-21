@@ -73,10 +73,10 @@ def load_config(path: str = None) -> Config:
             use_redis=env.bool("USE_REDIS"),
         ),
         db=DbConfig(
-            host=env.str('POSTGRES_HOST'),
-            password=env.str('POSTGRES_PASSWORD'),
-            user=env.str('POSTGRES_USER'),
-            database=env.str('POSTGRES_DB'),
+            host=env.str("POSTGRES_HOST"),
+            password=env.str("POSTGRES_PASSWORD"),
+            user=env.str("POSTGRES_USER"),
+            database=env.str("POSTGRES_DB"),
         ),
         # redis=RedisConfig(
         #     redis_pass=env.str("REDIS_PASSWORD"),

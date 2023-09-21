@@ -111,7 +111,7 @@ async def add_menu_reply(
     # dialog_manager.dialog_data.update(item_photo=item_photo)
     # dialog_manager.dialog_data.update(photo_url=photo_url)
     await m.answer(text="Photo was uploaded successfully!", parse_mode="HTML")
-    #await dialog_manager.switch_to(States.admin_panel_state)
+    # await dialog_manager.switch_to(States.admin_panel_state)
     await m.bot.answer_web_app_query()
 
 
