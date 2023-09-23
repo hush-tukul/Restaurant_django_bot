@@ -5336,3 +5336,75 @@ dispatcher.py:171 #INFO     [2023-09-10 14:15:16,761] - aiogram.event - Update i
 dispatcher.py:451 #WARNING  [2023-09-10 14:16:54,879] - aiogram.dispatcher - Received SIGINT signal
 dispatcher.py:355 #INFO     [2023-09-10 14:16:54,879] - aiogram.dispatcher - Polling stopped for bot @R_t_r_n_t_bot id=6451139920 - 'Restaurant-bot'
 dispatcher.py:547 #INFO     [2023-09-10 14:16:54,880] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 15:56:53,669] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 15:56:54,066] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 15:56:54,117] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 15:56:54,118] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 15:56:54,165] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 15:58:42,743] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 15:58:42,745] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 15:58:42,746] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 15:59:15,709] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 15:59:16,050] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 15:59:16,101] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 15:59:16,102] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 15:59:16,134] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 16:08:16,982] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 16:08:16,983] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 16:08:16,984] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 16:09:16,556] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 16:09:16,920] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 16:09:16,971] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 16:09:16,972] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 16:09:17,008] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 16:39:28,995] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 16:39:28,997] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 16:39:28,997] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 19:50:43,637] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 19:50:44,030] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 19:50:44,081] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 19:50:44,082] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 19:50:44,123] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 19:50:45,552] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 19:50:45,553] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 19:50:45,554] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 19:51:24,844] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 19:51:25,278] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 19:51:25,328] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 19:51:25,329] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 19:51:25,366] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 19:54:11,413] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 19:54:11,413] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 19:54:11,414] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 19:57:52,703] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 19:57:53,072] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 19:57:53,123] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 19:57:53,124] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 19:57:53,164] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 20:08:12,434] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 20:08:12,436] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 20:08:12,437] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 20:08:55,946] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 20:08:56,345] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 20:08:56,396] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 20:08:56,397] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 20:08:56,437] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 20:14:46,120] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 20:14:46,121] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 20:14:46,121] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-22 20:15:05,832] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-22 20:15:06,295] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-22 20:15:06,345] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-22 20:15:06,346] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-22 20:15:06,383] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-22 20:17:07,736] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-22 20:17:07,737] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-22 20:17:07,737] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 05:26:49,410] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 05:26:49,805] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 05:26:49,856] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 05:26:49,856] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 05:26:49,894] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 05:28:11,701] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 05:28:11,702] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 05:28:11,703] - aiogram.dispatcher - Polling stopped

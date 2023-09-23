@@ -108,10 +108,10 @@
 #
 # print(type(filter_float('34,6')))
 
-# import secrets
-# import string
-#
-# characters = string.ascii_letters + string.digits + string.punctuation
-# secret_key = ''.join(secrets.choice(characters) for i in range(66))
-#
-# print(secret_key)
+import secrets
+import string
+
+characters = string.ascii_letters + string.digits + string.punctuation
+secret_key = "".join(secrets.choice(characters) for i in range(8))
+
+print(secret_key)

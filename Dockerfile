@@ -9,7 +9,7 @@ WORKDIR /usr/src/app/"${BOT_NAME:-tg_bot}"
 COPY requirements.txt /usr/src/app/"${BOT_NAME:-tg_bot}"
 RUN pip install -r /usr/src/app/"${BOT_NAME:-tg_bot}"/requirements.txt
 
-COPY . .
+COPY .. .
 
 #COPY Restaurant_django_bot /usr/src/app/"${BOT_NAME:-tg_bot}"
 
