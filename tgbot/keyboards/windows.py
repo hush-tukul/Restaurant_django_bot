@@ -113,8 +113,7 @@ gate_window_3 = Window(
 main_menu_window = Window(
     StaticMedia(url="https://telegra.ph//file/0a899a91b7084ff6d4e64.jpg"),
     Format("{title}"),
-    Row(
-        WebApp(Const("Test"), Const("https://staskazakov.com/restaraunt/")),
+    Column(
         Select(
             Format("{item[0]}"),
             id="menu",
@@ -122,6 +121,7 @@ main_menu_window = Window(
             items="main_menu",
             on_click=main_menu_reply,
         ),
+        WebApp(Const("🚚 Delivery 🚚"), Const("https://staskazakov.com/restaraunt/")),
     ),
     parse_mode=ParseMode.HTML,
     state=States.main_menu_state,

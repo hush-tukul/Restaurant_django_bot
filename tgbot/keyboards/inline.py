@@ -83,6 +83,8 @@ async def main_menu_inline(dialog_manager: DialogManager, **kwargs):
     title = "━━ 🍽️ Main Menu 🍽️ ━━"
     main_menu = [
         ("📝 Menu 📝", "menu"),
+        ("👨‍🍳 Waiter 👨‍🍳", "waiter"),
+        ("📢 Feedback | Contact 📞", "contact"),
         ("🕹️Admin panel🕹️", "admin_panel")
         if user_id in list(map(int, env.list("ADMINS")))
         else None,

@@ -6671,3 +6671,265 @@ dispatcher.py:171 #INFO     [2023-09-24 11:15:40,344] - aiogram.event - Update i
 dispatcher.py:451 #WARNING  [2023-09-24 11:24:05,029] - aiogram.dispatcher - Received SIGINT signal
 dispatcher.py:355 #INFO     [2023-09-24 11:24:05,030] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
 dispatcher.py:547 #INFO     [2023-09-24 11:24:05,031] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:33:07,859] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:33:08,295] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:33:08,346] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:33:08,347] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:33:08,385] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:33:11,509] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:33:11,780] - aiogram.event - Update id=666541590 is handled. Duration 271 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:33:12,706] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:33:12,707] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-24 11:33:12,954] - aiogram.event - Update id=666541591 is handled. Duration 248 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:33:13,459] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:33:13,459] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:33:13,609] - aiogram.event - Update id=666541592 is handled. Duration 150 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:33:15,262] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:33:15,263] - root - button pressed: aaa
+inline.py:80 #INFO     [2023-09-24 11:33:15,263] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:33:15,263] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:33:15,447] - aiogram.event - Update id=666541593 is handled. Duration 185 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 11:33:24,309] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:33:24,310] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:33:24,310] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:33:59,093] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:33:59,471] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:33:59,522] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:33:59,523] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:33:59,561] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:34:04,718] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:34:05,053] - aiogram.event - Update id=666541594 is handled. Duration 335 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:34:05,783] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:34:05,783] - root - button pressed: facebook
+dispatcher.py:171 #INFO     [2023-09-24 11:34:06,100] - aiogram.event - Update id=666541595 is handled. Duration 317 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:34:06,311] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:34:06,311] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:34:06,546] - aiogram.event - Update id=666541596 is handled. Duration 236 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:34:07,430] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:34:07,431] - root - button pressed: a
+inline.py:80 #INFO     [2023-09-24 11:34:07,431] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:34:07,431] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:34:07,661] - aiogram.event - Update id=666541597 is handled. Duration 230 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 11:34:16,452] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:34:16,453] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:34:16,453] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:35:20,418] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:35:20,763] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:35:20,814] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:35:20,815] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:35:20,854] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:35:21,797] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:35:22,340] - aiogram.event - Update id=666541598 is handled. Duration 543 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:35:23,190] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:35:23,190] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-24 11:35:23,535] - aiogram.event - Update id=666541599 is handled. Duration 345 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:35:24,107] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:35:24,107] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:35:24,449] - aiogram.event - Update id=666541600 is handled. Duration 342 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:35:25,296] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:35:25,297] - root - button pressed: a
+inline.py:80 #INFO     [2023-09-24 11:35:25,297] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:35:25,297] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:35:25,541] - aiogram.event - Update id=666541601 is handled. Duration 245 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 11:36:18,730] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:36:18,731] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:36:18,731] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:36:36,016] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:36:36,440] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:36:36,490] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:36:36,492] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:36:36,532] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 11:37:47,401] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:37:47,402] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:37:47,403] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:38:01,186] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:38:01,641] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:38:01,692] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:38:01,693] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:38:01,732] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 11:38:06,053] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:38:06,054] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:38:06,054] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:38:15,474] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:38:15,773] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:38:15,823] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:38:15,824] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:38:15,862] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:38:18,910] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:38:19,245] - aiogram.event - Update id=666541602 is handled. Duration 335 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:38:19,842] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:38:19,842] - root - button pressed: telegram
+dispatcher.py:171 #INFO     [2023-09-24 11:38:20,161] - aiogram.event - Update id=666541603 is handled. Duration 319 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:38:20,556] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:38:20,556] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:38:20,709] - aiogram.event - Update id=666541604 is handled. Duration 153 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:38:21,944] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:38:21,944] - root - button pressed: a
+inline.py:80 #INFO     [2023-09-24 11:38:21,944] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:38:21,944] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:38:22,440] - aiogram.event - Update id=666541605 is handled. Duration 497 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 11:42:36,518] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:42:36,519] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:42:36,520] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:43:07,836] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:43:08,224] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:43:08,274] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:43:08,275] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:43:08,313] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 11:47:41,653] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:47:41,654] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:47:41,655] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:47:52,738] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:47:53,100] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:47:53,151] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:47:53,152] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:47:53,189] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:50:35,623] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:50:36,011] - aiogram.event - Update id=666541606 is handled. Duration 388 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:50:37,719] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:50:37,719] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-24 11:50:37,942] - aiogram.event - Update id=666541607 is handled. Duration 223 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:50:38,369] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:50:38,369] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:50:38,589] - aiogram.event - Update id=666541608 is handled. Duration 220 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:50:39,763] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:50:39,763] - root - button pressed: a
+inline.py:80 #INFO     [2023-09-24 11:50:39,763] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:50:39,763] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:50:40,026] - aiogram.event - Update id=666541609 is handled. Duration 264 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 12:22:26,607] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 12:22:26,609] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 12:22:26,609] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 12:22:35,341] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 12:22:35,642] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 12:22:35,692] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 12:22:35,693] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 12:22:35,731] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 12:28:05,980] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 12:28:05,981] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 12:28:05,982] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 12:28:14,791] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 12:28:15,173] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 12:28:15,223] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 12:28:15,224] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 12:28:15,264] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 12:36:51,712] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 12:36:51,713] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 12:36:51,714] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 12:37:25,360] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 12:37:25,696] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 12:37:25,747] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 12:37:25,748] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 12:37:25,791] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 12:41:32,789] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 12:41:32,790] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 12:41:32,790] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 12:41:43,081] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 12:41:43,449] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 12:41:43,500] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 12:41:43,501] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 12:41:43,538] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 13:14:42,418] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 13:14:42,420] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 13:14:42,420] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 13:47:55,887] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 13:47:56,287] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 13:47:56,337] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 13:47:56,338] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 13:47:56,375] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 13:48:11,524] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 13:48:11,525] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 13:48:11,525] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 13:49:50,548] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 13:49:51,031] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 13:49:51,081] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 13:49:51,082] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 13:49:51,121] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 13:50:14,028] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 13:50:14,029] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 13:50:14,029] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 13:51:35,667] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 13:51:36,194] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 13:51:36,244] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 13:51:36,245] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 13:51:36,284] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 13:51:45,730] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 13:51:45,731] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 13:51:45,731] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 15:43:35,501] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 15:43:35,860] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 15:43:35,910] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 15:43:35,911] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 15:43:35,955] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 15:45:21,459] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 15:45:21,911] - aiogram.event - Update id=666541610 is handled. Duration 452 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 15:45:23,128] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 15:45:23,128] - root - button pressed: instagram
+dispatcher.py:171 #INFO     [2023-09-24 15:45:23,346] - aiogram.event - Update id=666541611 is handled. Duration 218 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 15:45:24,016] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 15:45:24,016] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 15:45:24,171] - aiogram.event - Update id=666541612 is handled. Duration 155 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 15:45:25,683] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 15:45:25,683] - root - button pressed: fg
+inline.py:80 #INFO     [2023-09-24 15:45:25,683] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 15:45:25,683] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 15:45:25,931] - aiogram.event - Update id=666541613 is handled. Duration 249 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 16:37:05,382] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 16:37:05,384] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 16:37:05,384] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 16:37:13,700] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 16:37:14,088] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 16:37:14,138] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 16:37:14,139] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 16:37:14,178] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 17:33:30,650] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 17:33:30,652] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 17:33:30,652] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 17:33:39,542] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 17:33:39,959] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 17:33:40,010] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 17:33:40,011] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 17:33:40,056] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 17:37:21,704] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 17:37:21,705] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 17:37:21,705] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 17:37:31,214] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 17:37:31,621] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 17:37:31,671] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 17:37:31,672] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 17:37:31,711] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 17:41:12,410] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 17:41:12,411] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 17:41:12,411] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 17:41:47,576] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 17:41:47,905] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 17:41:47,955] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 17:41:47,956] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 17:41:47,993] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 17:48:22,704] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 17:48:22,706] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 17:48:22,706] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 17:48:36,210] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 17:48:36,641] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 17:48:36,692] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 17:48:36,693] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 17:48:36,733] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 18:13:50,270] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 18:13:50,272] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 18:13:50,272] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 18:13:58,783] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 18:13:59,179] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 18:13:59,230] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 18:13:59,231] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 18:13:59,270] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 18:25:04,955] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 18:25:04,956] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 18:25:04,956] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 18:25:50,105] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 18:25:50,521] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 18:25:50,572] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 18:25:50,573] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 18:25:50,648] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-24 19:03:19,501] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 19:03:19,506] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 19:03:19,506] - aiogram.dispatcher - Polling stopped

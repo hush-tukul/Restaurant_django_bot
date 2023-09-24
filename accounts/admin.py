@@ -1,22 +1,64 @@
 from django.contrib import admin
 from django.contrib.auth import get_user_model
-from django.contrib.auth.admin import UserAdmin
-from .forms import TelegramUserCreationForm, TelegramUserChangeForm
-from .models import TelegramUser
+from .models import User, Item, Purchase, Referral
+# from django.contrib.auth.admin import UserAdmin
+#
+# from accounts.forms import CustomUserCreationForm, CustomUserChangeForm
+#
+#CustomUser = get_user_model()
+# class CustomUserAdmin(UserAdmin):
+#     add_form = CustomUserCreationForm
+#     form = CustomUserChangeForm
+#     model = CustomUser
+#     list_display = [
+#     "email",
+#     "username",
+#     "is_superuser",
+#     ]
+#
+#admin.site.unregister(CustomUser)
+# admin.site.register(CustomUser, CustomUserAdmin)
 
-TelegramUser = get_user_model()
 
-
-class TelegramUserAdmin(UserAdmin):
-    add_form = TelegramUserCreationForm
-    form = TelegramUserChangeForm
-    model = TelegramUser
-    list_display = [
-        "email",
+@admin.register(User)
+class UserAdmin(admin.ModelAdmin):
+    list_display = (
+        "id",
+        "user_id",
+        "name",
         "username",
-        "is_superuser",
-    ]
+        "created_at",
+    )
 
 
-admin.site.register(TelegramUser, TelegramUserAdmin)
-# Register your models here.
+@admin.register(Item)
+class ItemAdmin(admin.ModelAdmin):
+    list_display = (
+        "id",
+        "name",
+        "price",
+        "category_name",
+        "subcategory_name",
+    )
+
+
+@admin.register(Referral)
+class ReferralAdmin(admin.ModelAdmin):
+    list_display = (
+        "id",
+        "referrer_id",
+
+    )
+
+
+@admin.register(Purchase)
+class PurchaseAdmin(admin.ModelAdmin):
+    list_display = (
+        "id",
+        "buyer",
+        "item_id",
+        "quantity",
+        "receiver",
+        "created_at",
+        "successful",
+    )
