@@ -5472,3 +5472,1202 @@ dispatcher.py:339 #INFO     [2023-09-23 06:01:19,170] - aiogram.dispatcher - Run
 dispatcher.py:451 #WARNING  [2023-09-23 06:02:54,709] - aiogram.dispatcher - Received SIGINT signal
 dispatcher.py:355 #INFO     [2023-09-23 06:02:54,710] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
 dispatcher.py:547 #INFO     [2023-09-23 06:02:54,711] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:03:01,452] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:03:01,762] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:03:01,812] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:03:01,813] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:03:01,850] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 06:07:11,052] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:07:11,052] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:07:11,052] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:07:11,058] - tgbot.bot_db.db - userdata: None
+db.py:106 #INFO     [2023-09-23 06:07:11,058] - tgbot.bot_db.db - No item found with id 683497406.
+db.py:174 #INFO     [2023-09-23 06:07:11,060] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:07:11,060] - tgbot.handlers.admin - userdata: None
+db.py:82 #INFO     [2023-09-23 06:07:11,759] - tgbot.bot_db.db - You are in add_user
+db.py:73 #INFO     [2023-09-23 06:07:11,759] - tgbot.bot_db.db - You are in _create_user_key
+db.py:93 #INFO     [2023-09-23 06:07:11,766] - root - User successfully saved!
+dispatcher.py:171 #INFO     [2023-09-23 06:07:12,074] - aiogram.event - Update id=666541533 is handled. Duration 1023 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-23 06:07:14,955] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-23 06:07:14,955] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-23 06:07:15,137] - aiogram.event - Update id=666541534 is handled. Duration 182 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-23 06:07:15,940] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-23 06:07:15,941] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-23 06:07:16,072] - aiogram.event - Update id=666541535 is handled. Duration 132 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-23 06:07:18,051] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-23 06:07:18,051] - root - button pressed: фвыч
+inline.py:80 #INFO     [2023-09-23 06:07:18,052] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 06:07:18,052] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-23 06:07:18,229] - aiogram.event - Update id=666541536 is handled. Duration 179 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-23 06:11:25,797] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:11:25,798] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:11:25,799] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:11:37,074] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:11:37,397] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:11:37,448] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:11:37,449] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:11:37,485] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 06:12:42,659] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:12:42,660] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:12:42,660] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:12:42,668] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f21161345d0>
+db.py:39 #INFO     [2023-09-23 06:12:42,668] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:12:42,668] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:12:42,668] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:12:42,668] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:12:42,670] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:12:42,670] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:12:42,994] - aiogram.event - Update id=666541537 is not handled. Duration 335 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:12:42,995] - aiogram.event - Cause exception while process update id=666541537 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+admin.py:21 #INFO     [2023-09-23 06:12:50,759] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:12:50,760] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:12:50,760] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:12:50,761] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f2115518250>
+db.py:39 #INFO     [2023-09-23 06:12:50,761] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:12:50,761] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:12:50,761] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:12:50,762] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:12:50,762] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:12:50,762] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:12:51,114] - aiogram.event - Update id=666541538 is not handled. Duration 354 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:12:51,114] - aiogram.event - Cause exception while process update id=666541538 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+dispatcher.py:451 #WARNING  [2023-09-23 06:13:36,799] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:13:36,800] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:13:36,800] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:13:43,433] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:13:43,774] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:13:43,825] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:13:43,826] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:13:43,885] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 06:13:45,769] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:13:45,769] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:13:45,769] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:13:45,774] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7fc16dd0f090>
+db.py:39 #INFO     [2023-09-23 06:13:45,774] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:13:45,774] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:13:45,774] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:13:45,774] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:13:45,775] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:13:45,776] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:13:46,021] - aiogram.event - Update id=666541539 is not handled. Duration 252 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:13:46,022] - aiogram.event - Cause exception while process update id=666541539 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+dispatcher.py:171 #INFO     [2023-09-23 06:14:45,351] - aiogram.event - Update id=666541540 is not handled. Duration 0 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:14:45,351] - aiogram.event - Cause exception while process update id=666541540 by bot id=1506556328
+UnknownIntent: Context not found for intent id: 3C0X93
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 151, in process_callback_query
+    await self._load_context(event, intent_id, DEFAULT_STACK_ID, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 74, in _load_context
+    context = await proxy.load_context(intent_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/storage.py", line 34, in load_context
+    raise UnknownIntent(
+aiogram_dialog.api.exceptions.UnknownIntent: Context not found for intent id: 3C0X93
+admin.py:21 #INFO     [2023-09-23 06:14:52,148] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:14:52,149] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:14:52,149] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:14:52,150] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7fc16d102a10>
+db.py:39 #INFO     [2023-09-23 06:14:52,150] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:14:52,151] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:14:52,151] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:14:52,151] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:14:52,152] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:14:52,152] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:14:52,442] - aiogram.event - Update id=666541541 is not handled. Duration 293 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:14:52,442] - aiogram.event - Cause exception while process update id=666541541 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+user.py:18 #INFO     [2023-09-23 06:15:56,533] - tgbot.handlers.user - You are in user_start
+db.py:97 #INFO     [2023-09-23 06:15:56,534] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:15:56,534] - tgbot.bot_db.db - Trying to get item with id: 5675977680
+db.py:100 #INFO     [2023-09-23 06:15:56,535] - tgbot.bot_db.db - userdata: None
+db.py:106 #INFO     [2023-09-23 06:15:56,536] - tgbot.bot_db.db - No item found with id 5675977680.
+db.py:174 #INFO     [2023-09-23 06:15:56,536] - tgbot.bot_db.db - No user statistic found for user_id 5675977680.
+user.py:23 #INFO     [2023-09-23 06:15:56,537] - tgbot.handlers.user - userdata: None
+db.py:82 #INFO     [2023-09-23 06:15:56,537] - tgbot.bot_db.db - You are in add_user
+db.py:73 #INFO     [2023-09-23 06:15:56,537] - tgbot.bot_db.db - You are in _create_user_key
+db.py:93 #INFO     [2023-09-23 06:15:56,542] - root - User successfully saved!
+dispatcher.py:171 #INFO     [2023-09-23 06:15:56,723] - aiogram.event - Update id=666541542 is handled. Duration 189 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-23 06:15:58,542] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-23 06:15:58,542] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-23 06:15:58,729] - aiogram.event - Update id=666541543 is handled. Duration 187 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-23 06:15:59,412] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-23 06:15:59,412] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-23 06:15:59,528] - aiogram.event - Update id=666541544 is handled. Duration 116 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-23 06:16:01,610] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-23 06:16:01,610] - root - button pressed: a
+inline.py:80 #INFO     [2023-09-23 06:16:01,611] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 06:16:01,611] - tgbot.keyboards.inline - 5675977680
+dispatcher.py:171 #INFO     [2023-09-23 06:16:01,777] - aiogram.event - Update id=666541545 is handled. Duration 168 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-23 06:16:13,318] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:16:13,319] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:16:13,319] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:16:20,784] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:16:21,105] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:16:21,156] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:16:21,157] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:16:21,199] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 06:16:32,908] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:16:32,909] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:16:32,909] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:16:52,377] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:16:52,731] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:16:52,781] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:16:52,782] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:16:52,847] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+user.py:18 #INFO     [2023-09-23 06:16:55,302] - tgbot.handlers.user - You are in user_start
+db.py:97 #INFO     [2023-09-23 06:16:55,302] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:16:55,303] - tgbot.bot_db.db - Trying to get item with id: 5675977680
+db.py:100 #INFO     [2023-09-23 06:16:55,309] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f18515e8110>
+db.py:39 #INFO     [2023-09-23 06:16:55,310] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:16:55,310] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:16:55,310] - tgbot.bot_db.db - item_list: {'user_id': '5675977680', 'user_tg_name': 'choose_your_bots', 'user_key': 'c7462837', 'access_key': '', 'user_balance': 0, 'chat_id': 5675977680, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 15, 56, 534340)} 
+db.py:103 #INFO     [2023-09-23 06:16:55,310] - tgbot.bot_db.db - Item with id 5675977680 was found
+db.py:174 #INFO     [2023-09-23 06:16:55,312] - tgbot.bot_db.db - No user statistic found for user_id 5675977680.
+user.py:23 #INFO     [2023-09-23 06:16:55,312] - tgbot.handlers.user - userdata: {'user_id': '5675977680', 'user_tg_name': 'choose_your_bots', 'user_key': 'c7462837', 'access_key': '', 'user_balance': 0, 'chat_id': 5675977680, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 15, 56, 534340)}
+dispatcher.py:171 #INFO     [2023-09-23 06:16:55,659] - aiogram.event - Update id=666541546 is not handled. Duration 357 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:16:55,659] - aiogram.event - Cause exception while process update id=666541546 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/user.py", line 38, in user_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+admin.py:21 #INFO     [2023-09-23 06:17:31,989] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:17:31,989] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:17:31,989] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:17:31,991] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f18509abf50>
+db.py:39 #INFO     [2023-09-23 06:17:31,991] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:17:31,991] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:17:31,991] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:17:31,992] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:17:31,992] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:17:31,992] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:17:32,307] - aiogram.event - Update id=666541547 is not handled. Duration 318 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:17:32,307] - aiogram.event - Cause exception while process update id=666541547 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+admin.py:21 #INFO     [2023-09-23 06:18:24,304] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:18:24,304] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:18:24,305] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:18:24,306] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f18509c06d0>
+db.py:39 #INFO     [2023-09-23 06:18:24,306] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:18:24,306] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:18:24,307] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:18:24,307] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:18:24,308] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:18:24,308] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:18:24,613] - aiogram.event - Update id=666541548 is not handled. Duration 309 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:18:24,614] - aiogram.event - Cause exception while process update id=666541548 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+admin.py:21 #INFO     [2023-09-23 06:18:31,245] - tgbot.handlers.admin - You are in admin_start
+db.py:97 #INFO     [2023-09-23 06:18:31,246] - tgbot.bot_db.db - You are in get_user_by_id
+db.py:98 #INFO     [2023-09-23 06:18:31,246] - tgbot.bot_db.db - Trying to get item with id: 683497406
+db.py:100 #INFO     [2023-09-23 06:18:31,247] - tgbot.bot_db.db - userdata: <tgbot.bot_db.db.Users object at 0x7f1854a05b50>
+db.py:39 #INFO     [2023-09-23 06:18:31,247] - tgbot.bot_db.db - You are in _construct_userdata
+db.py:58 #INFO     [2023-09-23 06:18:31,247] - tgbot.bot_db.db - else: 
+db.py:68 #INFO     [2023-09-23 06:18:31,248] - tgbot.bot_db.db - item_list: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)} 
+db.py:103 #INFO     [2023-09-23 06:18:31,248] - tgbot.bot_db.db - Item with id 683497406 was found
+db.py:174 #INFO     [2023-09-23 06:18:31,248] - tgbot.bot_db.db - No user statistic found for user_id 683497406.
+admin.py:26 #INFO     [2023-09-23 06:18:31,249] - tgbot.handlers.admin - userdata: {'user_id': '683497406', 'user_tg_name': 'd_w_y_t', 'user_key': 'be31fd64', 'access_key': '', 'user_balance': 0, 'chat_id': 683497406, 'registry_datetime': datetime.datetime(2023, 9, 23, 6, 7, 11, 52467)}
+dispatcher.py:171 #INFO     [2023-09-23 06:18:31,418] - aiogram.event - Update id=666541549 is not handled. Duration 172 ms by bot id=1506556328
+dispatcher.py:313 #ERROR    [2023-09-23 06:18:31,418] - aiogram.event - Cause exception while process update id=666541549 by bot id=1506556328
+TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 307, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 274, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 118, in process_message
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/middlewares/config.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 135, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 128, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 124, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager_middleware.py", line 45, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/context/intent_middleware.py", line 165, in context_saver_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/usr/src/app/Siferot/tgbot/handlers/admin.py", line 42, in admin_start
+    await dialog_manager.start(
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 207, in start
+    await self._start_normal(state, data)
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 254, in _start_normal
+    await self.show()
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/manager.py", line 289, in show
+    sent_message = await self.message_manager.show_message(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 115, in show_message
+    return await self.send_message(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 244, in send_message
+    return await self.send_media(bot, new_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram_dialog/manager/message_manager.py", line 269, in send_media
+    return await method(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 2170, in send_animation
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/bot.py", line 431, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 257, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 170, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: wrong file identifier/HTTP URL specified
+dispatcher.py:451 #WARNING  [2023-09-23 06:20:37,277] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:20:37,278] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:20:37,279] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:20:44,029] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:20:44,327] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:20:44,377] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:20:44,378] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:20:44,419] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 06:20:46,893] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-23 06:20:47,189] - aiogram.event - Update id=666541550 is handled. Duration 296 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-23 06:20:48,689] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-23 06:20:48,689] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-23 06:20:48,895] - aiogram.event - Update id=666541551 is handled. Duration 205 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-23 06:20:49,524] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-23 06:20:49,525] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-23 06:20:49,670] - aiogram.event - Update id=666541552 is handled. Duration 145 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-23 06:20:51,400] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-23 06:20:51,400] - root - button pressed: sdc
+inline.py:80 #INFO     [2023-09-23 06:20:51,400] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 06:20:51,400] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-23 06:20:51,545] - aiogram.event - Update id=666541553 is handled. Duration 146 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-23 06:21:57,647] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 06:21:57,648] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 06:21:57,649] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 06:22:03,842] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 06:22:04,134] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 06:22:04,184] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 06:22:04,185] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 06:22:04,224] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 06:22:06,268] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-23 06:22:06,523] - aiogram.event - Update id=666541554 is handled. Duration 254 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-23 06:22:07,240] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-23 06:22:07,240] - root - button pressed: facebook
+dispatcher.py:171 #INFO     [2023-09-23 06:22:07,469] - aiogram.event - Update id=666541555 is handled. Duration 230 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-23 06:22:08,049] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-23 06:22:08,049] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-23 06:22:08,167] - aiogram.event - Update id=666541556 is handled. Duration 118 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-23 06:22:09,896] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-23 06:22:09,896] - root - button pressed: ssc
+inline.py:80 #INFO     [2023-09-23 06:22:09,896] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 06:22:09,896] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-23 06:22:10,059] - aiogram.event - Update id=666541557 is handled. Duration 164 ms by bot id=1506556328
+admin.py:21 #INFO     [2023-09-23 07:39:11,842] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-23 07:39:12,291] - aiogram.event - Update id=666541558 is handled. Duration 452 ms by bot id=1506556328
+user.py:18 #INFO     [2023-09-23 07:40:10,623] - tgbot.handlers.user - You are in user_start
+dispatcher.py:171 #INFO     [2023-09-23 07:40:10,837] - aiogram.event - Update id=666541559 is handled. Duration 214 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-23 07:40:14,667] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-23 07:40:14,667] - root - button pressed: facebook
+dispatcher.py:171 #INFO     [2023-09-23 07:40:14,853] - aiogram.event - Update id=666541560 is handled. Duration 186 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-23 07:40:29,362] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-23 07:40:29,362] - root - button pressed: miss_mrs
+dispatcher.py:171 #INFO     [2023-09-23 07:40:29,487] - aiogram.event - Update id=666541561 is handled. Duration 125 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-23 07:40:42,048] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-23 07:40:42,048] - root - button pressed: 05.05.3000
+inline.py:80 #INFO     [2023-09-23 07:40:42,048] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 07:40:42,049] - tgbot.keyboards.inline - 452657752
+dispatcher.py:171 #INFO     [2023-09-23 07:40:42,191] - aiogram.event - Update id=666541562 is handled. Duration 144 ms by bot id=1506556328
+reply.py:55 #INFO     [2023-09-23 07:40:47,644] - root - You are in main_menu
+reply.py:56 #INFO     [2023-09-23 07:40:47,644] - root - button pressed: menu
+inline.py:95 #INFO     [2023-09-23 07:40:47,645] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-23 07:40:47,645] - tgbot.keyboards.inline - 452657752
+dispatcher.py:171 #INFO     [2023-09-23 07:40:47,775] - aiogram.event - Update id=666541563 is handled. Duration 131 ms by bot id=1506556328
+reply.py:67 #INFO     [2023-09-23 07:40:50,022] - root - You are in menu_sections_reply
+reply.py:68 #INFO     [2023-09-23 07:40:50,023] - root - button pressed: cocktails
+inline.py:119 #INFO     [2023-09-23 07:40:50,023] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:123 #INFO     [2023-09-23 07:40:50,023] - tgbot.keyboards.inline - 452657752
+dispatcher.py:171 #INFO     [2023-09-23 07:40:50,148] - aiogram.event - Update id=666541564 is handled. Duration 126 ms by bot id=1506556328
+inline.py:95 #INFO     [2023-09-23 07:40:59,447] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-23 07:40:59,448] - tgbot.keyboards.inline - 452657752
+dispatcher.py:171 #INFO     [2023-09-23 07:40:59,597] - aiogram.event - Update id=666541565 is handled. Duration 149 ms by bot id=1506556328
+inline.py:80 #INFO     [2023-09-23 07:41:02,002] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-23 07:41:02,002] - tgbot.keyboards.inline - 452657752
+dispatcher.py:171 #INFO     [2023-09-23 07:41:02,110] - aiogram.event - Update id=666541566 is handled. Duration 108 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-23 08:21:57,123] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 08:21:57,127] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 08:21:57,128] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 08:22:47,362] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 08:22:47,660] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 08:22:47,710] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 08:22:47,711] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 08:22:47,748] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 08:48:46,211] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 08:48:46,212] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 08:48:46,213] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 08:48:55,173] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 08:48:55,510] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 08:48:55,561] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 08:48:55,562] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 08:48:55,615] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-23 10:55:42,253] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-23 10:55:42,613] - aiogram.event - Update id=666541567 is handled. Duration 369 ms by bot id=1506556328
+dispatcher.py:218 #ERROR    [2023-09-23 12:26:43,721] - aiogram.dispatcher - Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+dispatcher.py:220 #WARNING  [2023-09-23 12:26:43,724] - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 1506556328)
+dispatcher.py:218 #ERROR    [2023-09-23 12:26:44,761] - aiogram.dispatcher - Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+dispatcher.py:220 #WARNING  [2023-09-23 12:26:44,761] - aiogram.dispatcher - Sleep for 1.342024 seconds and try again... (tryings = 1, bot id = 1506556328)
+dispatcher.py:218 #ERROR    [2023-09-23 12:26:46,148] - aiogram.dispatcher - Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+dispatcher.py:220 #WARNING  [2023-09-23 12:26:46,148] - aiogram.dispatcher - Sleep for 1.711836 seconds and try again... (tryings = 2, bot id = 1506556328)
+dispatcher.py:218 #ERROR    [2023-09-23 12:26:48,406] - aiogram.dispatcher - Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+dispatcher.py:220 #WARNING  [2023-09-23 12:26:48,406] - aiogram.dispatcher - Sleep for 2.439055 seconds and try again... (tryings = 3, bot id = 1506556328)
+dispatcher.py:218 #ERROR    [2023-09-23 12:26:50,892] - aiogram.dispatcher - Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+dispatcher.py:220 #WARNING  [2023-09-23 12:26:50,893] - aiogram.dispatcher - Sleep for 3.058274 seconds and try again... (tryings = 4, bot id = 1506556328)
+dispatcher.py:232 #INFO     [2023-09-23 12:27:28,023] - aiogram.dispatcher - Connection established (tryings = 5, bot id = 1506556328)
+dispatcher.py:451 #WARNING  [2023-09-23 12:42:20,347] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 12:42:20,356] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 12:42:20,357] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 12:42:28,943] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 12:42:29,501] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 12:42:29,552] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 12:42:29,553] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 12:42:29,593] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 14:09:42,866] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 14:09:42,873] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 14:09:42,874] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 18:57:31,200] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 18:57:32,117] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 18:57:32,168] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 18:57:32,169] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 18:57:32,208] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 19:19:50,993] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 19:19:50,994] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 19:19:50,994] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-23 19:19:58,407] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-23 19:19:58,799] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-23 19:19:58,850] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-23 19:19:58,851] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-23 19:19:58,889] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:451 #WARNING  [2023-09-23 20:47:49,229] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-23 20:47:49,236] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-23 20:47:49,237] - aiogram.dispatcher - Polling stopped
+bot.py:50 #INFO     [2023-09-24 11:09:51,016] - __main__ - Starting bot!
+broadcaster.py:24 #INFO     [2023-09-24 11:09:51,424] - root - Target [ID:683497406]: success
+broadcaster.py:43 #INFO     [2023-09-24 11:09:51,474] - root - 1 messages successful sent.
+dispatcher.py:520 #INFO     [2023-09-24 11:09:51,475] - aiogram.dispatcher - Start polling
+dispatcher.py:339 #INFO     [2023-09-24 11:09:51,512] - aiogram.dispatcher - Run polling for bot @Siferotbot id=1506556328 - 'Siferot'
+admin.py:21 #INFO     [2023-09-24 11:09:54,081] - tgbot.handlers.admin - You are in admin_start
+dispatcher.py:171 #INFO     [2023-09-24 11:09:54,374] - aiogram.event - Update id=666541568 is handled. Duration 293 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:10:07,383] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:10:07,383] - root - button pressed: facebook
+dispatcher.py:171 #INFO     [2023-09-24 11:10:07,642] - aiogram.event - Update id=666541569 is handled. Duration 259 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:10:08,256] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:10:08,256] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:10:08,401] - aiogram.event - Update id=666541570 is handled. Duration 145 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:10:09,911] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:10:09,912] - root - button pressed: ыыв
+inline.py:80 #INFO     [2023-09-24 11:10:09,912] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:10:09,912] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:10,248] - aiogram.event - Update id=666541571 is handled. Duration 337 ms by bot id=1506556328
+reply.py:55 #INFO     [2023-09-24 11:10:11,953] - root - You are in main_menu
+reply.py:56 #INFO     [2023-09-24 11:10:11,953] - root - button pressed: menu
+inline.py:95 #INFO     [2023-09-24 11:10:11,953] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:10:11,953] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:12,118] - aiogram.event - Update id=666541572 is handled. Duration 165 ms by bot id=1506556328
+reply.py:67 #INFO     [2023-09-24 11:10:13,139] - root - You are in menu_sections_reply
+reply.py:68 #INFO     [2023-09-24 11:10:13,139] - root - button pressed: starters
+inline.py:119 #INFO     [2023-09-24 11:10:13,140] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:123 #INFO     [2023-09-24 11:10:13,140] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:13,334] - aiogram.event - Update id=666541573 is handled. Duration 195 ms by bot id=1506556328
+inline.py:95 #INFO     [2023-09-24 11:10:15,070] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:10:15,071] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:15,298] - aiogram.event - Update id=666541574 is handled. Duration 227 ms by bot id=1506556328
+reply.py:67 #INFO     [2023-09-24 11:10:15,883] - root - You are in menu_sections_reply
+reply.py:68 #INFO     [2023-09-24 11:10:15,884] - root - button pressed: soups
+inline.py:119 #INFO     [2023-09-24 11:10:15,884] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:123 #INFO     [2023-09-24 11:10:15,884] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:16,055] - aiogram.event - Update id=666541575 is handled. Duration 171 ms by bot id=1506556328
+inline.py:95 #INFO     [2023-09-24 11:10:16,875] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:10:16,875] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:17,054] - aiogram.event - Update id=666541576 is handled. Duration 179 ms by bot id=1506556328
+reply.py:67 #INFO     [2023-09-24 11:10:18,009] - root - You are in menu_sections_reply
+reply.py:68 #INFO     [2023-09-24 11:10:18,010] - root - button pressed: other_drinks
+inline.py:119 #INFO     [2023-09-24 11:10:18,010] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:123 #INFO     [2023-09-24 11:10:18,010] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:18,249] - aiogram.event - Update id=666541577 is handled. Duration 239 ms by bot id=1506556328
+inline.py:95 #INFO     [2023-09-24 11:10:18,765] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:10:18,766] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:18,913] - aiogram.event - Update id=666541578 is handled. Duration 148 ms by bot id=1506556328
+inline.py:80 #INFO     [2023-09-24 11:10:19,350] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:10:19,350] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:19,629] - aiogram.event - Update id=666541579 is handled. Duration 279 ms by bot id=1506556328
+reply.py:55 #INFO     [2023-09-24 11:10:20,477] - root - You are in main_menu
+reply.py:56 #INFO     [2023-09-24 11:10:20,478] - root - button pressed: admin_panel
+dispatcher.py:171 #INFO     [2023-09-24 11:10:20,936] - aiogram.event - Update id=666541580 is handled. Duration 458 ms by bot id=1506556328
+inline.py:80 #INFO     [2023-09-24 11:10:23,855] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:10:23,856] - tgbot.keyboards.inline - 683497406
+dispatcher.py:171 #INFO     [2023-09-24 11:10:24,122] - aiogram.event - Update id=666541581 is handled. Duration 266 ms by bot id=1506556328
+user.py:18 #INFO     [2023-09-24 11:11:42,886] - tgbot.handlers.user - You are in user_start
+dispatcher.py:171 #INFO     [2023-09-24 11:11:43,113] - aiogram.event - Update id=666541582 is handled. Duration 226 ms by bot id=1506556328
+reply.py:30 #INFO     [2023-09-24 11:12:12,202] - root - You are in gate_1_reply
+reply.py:31 #INFO     [2023-09-24 11:12:12,203] - root - button pressed: friends
+dispatcher.py:171 #INFO     [2023-09-24 11:12:12,576] - aiogram.event - Update id=666541583 is handled. Duration 374 ms by bot id=1506556328
+reply.py:39 #INFO     [2023-09-24 11:12:20,354] - root - You are in gate_2_reply
+reply.py:40 #INFO     [2023-09-24 11:12:20,354] - root - button pressed: mr
+dispatcher.py:171 #INFO     [2023-09-24 11:12:20,503] - aiogram.event - Update id=666541584 is handled. Duration 150 ms by bot id=1506556328
+reply.py:46 #INFO     [2023-09-24 11:12:45,043] - root - You are in gate_3_reply
+reply.py:48 #INFO     [2023-09-24 11:12:45,043] - root - button pressed: 20.10.2010
+inline.py:80 #INFO     [2023-09-24 11:12:45,044] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:12:45,044] - tgbot.keyboards.inline - 499507850
+dispatcher.py:171 #INFO     [2023-09-24 11:12:45,387] - aiogram.event - Update id=666541585 is handled. Duration 344 ms by bot id=1506556328
+reply.py:55 #INFO     [2023-09-24 11:15:18,272] - root - You are in main_menu
+reply.py:56 #INFO     [2023-09-24 11:15:18,273] - root - button pressed: menu
+inline.py:95 #INFO     [2023-09-24 11:15:18,273] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:15:18,273] - tgbot.keyboards.inline - 499507850
+dispatcher.py:171 #INFO     [2023-09-24 11:15:18,552] - aiogram.event - Update id=666541586 is handled. Duration 280 ms by bot id=1506556328
+reply.py:67 #INFO     [2023-09-24 11:15:25,695] - root - You are in menu_sections_reply
+reply.py:68 #INFO     [2023-09-24 11:15:25,695] - root - button pressed: cocktails
+inline.py:119 #INFO     [2023-09-24 11:15:25,695] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:123 #INFO     [2023-09-24 11:15:25,695] - tgbot.keyboards.inline - 499507850
+dispatcher.py:171 #INFO     [2023-09-24 11:15:25,857] - aiogram.event - Update id=666541587 is handled. Duration 162 ms by bot id=1506556328
+inline.py:95 #INFO     [2023-09-24 11:15:37,451] - tgbot.keyboards.inline - You are in menu_sections_inline
+inline.py:97 #INFO     [2023-09-24 11:15:37,452] - tgbot.keyboards.inline - 499507850
+dispatcher.py:171 #INFO     [2023-09-24 11:15:37,639] - aiogram.event - Update id=666541588 is handled. Duration 188 ms by bot id=1506556328
+inline.py:80 #INFO     [2023-09-24 11:15:40,229] - tgbot.keyboards.inline - You are in main_menu_inline
+inline.py:82 #INFO     [2023-09-24 11:15:40,229] - tgbot.keyboards.inline - 499507850
+dispatcher.py:171 #INFO     [2023-09-24 11:15:40,344] - aiogram.event - Update id=666541589 is handled. Duration 115 ms by bot id=1506556328
+dispatcher.py:451 #WARNING  [2023-09-24 11:24:05,029] - aiogram.dispatcher - Received SIGINT signal
+dispatcher.py:355 #INFO     [2023-09-24 11:24:05,030] - aiogram.dispatcher - Polling stopped for bot @Siferotbot id=1506556328 - 'Siferot'
+dispatcher.py:547 #INFO     [2023-09-24 11:24:05,031] - aiogram.dispatcher - Polling stopped

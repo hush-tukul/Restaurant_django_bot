@@ -114,7 +114,7 @@ main_menu_window = Window(
     StaticMedia(url="https://telegra.ph//file/0a899a91b7084ff6d4e64.jpg"),
     Format("{title}"),
     Row(
-        WebApp(Const("Test"), Const("https://github.com/StasKazakov")),
+        WebApp(Const("Test"), Const("https://staskazakov.com/restaraunt/")),
         Select(
             Format("{item[0]}"),
             id="menu",

@@ -21,9 +21,7 @@ async def admin_start(m: Message, dialog_manager: DialogManager):
     logger.info("You are in admin_start")
     reg_time = datetime.now()
     user_id, user_name, chat_id = m.from_user.id, m.from_user.username, m.chat.id
-    userdata = Users.get_user_by_id(user_id)
-    user_stat = UserStatistics.get_user_statistic(user_id)
-    logger.info(f"userdata: {userdata}")
+
     dialog_data = {
         "reg_time": reg_time,
         "user_id": user_id,
@@ -31,27 +29,11 @@ async def admin_start(m: Message, dialog_manager: DialogManager):
         "user_name": user_name,
     }
     await m.reply("Hello admin! 👋😎", parse_mode="HTML")
-    if userdata:
-        if user_stat:
-            await dialog_manager.start(
-                States.main_menu_state,
-                data=dialog_data,
-                mode=StartMode.RESET_STACK,
-            )
-        else:
-            await dialog_manager.start(
-                States.check_in_state,
-                data=dialog_data,
-                mode=StartMode.RESET_STACK,
-            )
-
-    elif userdata is None:
-        Users.add_user(user_id, user_name, 0, chat_id, reg_time)
-        await dialog_manager.start(
-            States.gate_state_1,
-            data=dialog_data,
-            mode=StartMode.RESET_STACK,
-        )
+    await dialog_manager.start(
+        States.gate_state_1,
+        data=dialog_data,
+        mode=StartMode.RESET_STACK,
+    )
 
 
 # @admin_router.inline_query()
